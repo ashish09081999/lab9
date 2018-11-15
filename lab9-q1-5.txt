@@ -8,4 +8,15 @@
 
 3.   *p points to character value. So, double can not be used.
 
-4.	
+4.	temp = A
+     temp = C
+     temp = B
+     temp = A
+     ptr = 4435
+     temp = B
+     temp = C
+     ptr = 4434
+     temp = B
+     temp = C
+     temp = C
+     temp = C
